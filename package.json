@@ -1,8 +1,8 @@
 {
   "name": "gruvbox-custom-theme-vscode",
   "displayName": "Gruvbox Custom Theme",
-  "version": "0.0.1",
-  "publisher": "Eugen Eistrach",
+  "version": "0.0.2",
+  "publisher": "EugenEistrach",
   "engines": {
     "vscode": "*"
   },
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "My Theme",
+        "label": "Gruvbox Custom Theme - Eugen",
         "uiTheme": "vs",
         "path": "./theme.json"
       }

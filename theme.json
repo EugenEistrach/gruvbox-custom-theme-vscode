@@ -909,14 +909,14 @@
     "list.dropBackground": "#ebdbb2",
     "list.highlightForeground": "#689d6a",
     // SIDE BAR
-    "sideBar.background": "#f9f5d7",
+    "sideBar.background": "#f2e5bc",
     "sideBar.foreground": "#504945",
     "sideBar.border": "#ebdbb2",
     "sideBarTitle.foreground": "#3c3836",
-    "sideBarSectionHeader.background": "#f9f5d700",
+    "sideBarSectionHeader.background": "#f2e5bc",
     "sideBarSectionHeader.foreground": "#3c3836",
     // ACTIVITY BAR
-    "activityBar.background": "#f9f5d7",
+    "activityBar.background": "#f2e5bc",
     "activityBar.foreground": "#3c3836",
     "activityBar.border": "#ebdbb2",
     "activityBarTop.background": "#f9f5d7",
@@ -927,20 +927,20 @@
     "editorGroup.border": "#ebdbb2",
     "editorGroup.dropBackground": "#ebdbb260",
     "editorGroupHeader.noTabsBackground": "#f9f5d7",
-    "editorGroupHeader.tabsBackground": "#f9f5d7",
+    "editorGroupHeader.tabsBackground": "#f2e5bc",
     "editorGroupHeader.tabsBorder": "#ebdbb2",
     // TABS
     "tab.border": "#f9f5d700",
-    "tab.activeBackground": "#f2e5bc",
+    "tab.activeBackground": "#f9f5d7",
     "tab.activeBorder": "#d65d0e",
     "tab.activeForeground": "#3c3836",
     "tab.inactiveForeground": "#7c6f64",
-    "tab.inactiveBackground": "#f9f5d7",
+    "tab.inactiveBackground": "#f2e5bc",
     "tab.unfocusedActiveForeground": "#7c6f64",
     "tab.unfocusedActiveBorder": "#f9f5d700",
     "tab.unfocusedInactiveForeground": "#928374",
     // EDITOR
-    "editor.background": "#f9f5d7",
+    "editor.background": "#fbf1c7",
     "editor.foreground": "#3c3836",
     "editorLineNumber.foreground": "#bdae93",
     "editorCursor.foreground": "#3c3836",
@@ -1025,7 +1025,7 @@
     "panel.border": "#ebdbb2",
     "panelTitle.activeForeground": "#3c3836",
     // STATUS BAR
-    "statusBar.background": "#f9f5d7",
+    "statusBar.background": "#f2e5bc",
     "statusBar.border": "#ebdbb2",
     "statusBar.foreground": "#3c3836",
     "statusBar.debuggingBackground": "#af3a03",
@@ -1051,9 +1051,9 @@
     "terminal.ansiWhite": "#7c6f64",
     "terminal.ansiBrightWhite": "#3c3836",
     "terminal.foreground": "#3c3836",
-    "terminal.background": "#f9f5d7",
+    "terminal.background": "#fbf1c7",
     // TITLE BAR macOS (not tested)
-    "titleBar.activeBackground": "#f9f5d7",
+    "titleBar.activeBackground": "#f2e5bc",
     "titleBar.activeForeground": "#3c3836",
     "titleBar.inactiveBackground": "#f9f5d7",
     // GIT COLORS
@@ -1066,7 +1066,7 @@
     "menu.border": "#ebdbb2",
     "menu.separatorBackground": "#ebdbb2",
     // JUPYTER NOTEBOOKS
-    "notebook.cellEditorBackground": "#fbf1c7",
+    "notebook.cellEditorBackground": "#f9f5d7",
     "notebook.focusedCellBorder": "#7c6f64",
     "notebook.cellBorderColor": "#d5c4a1",
     "notebook.focusedEditorBorder": "#d5c4a1",
@@ -1076,7 +1076,17 @@
     // OTHERS
     "textLink.foreground": "#076678",
     "textLink.activeForeground": "#458588",
-    "debugToolBar.background": "#f9f5d7"
+    "debugToolBar.background": "#f9f5d7",
+    // BREADCRUMB
+    "breadcrumb.background": "#f2e5bc",
+    // PANEL
+    "panel.background": "#f2e5bc",
+    // QUICK INPUT
+    "quickInput.background": "#f2e5bc",
+    // NOTIFICATIONS
+    "notifications.background": "#f2e5bc",
+    // MENU
+    "menu.background": "#f2e5bc"
   },
   "semanticTokenColors": {
     "constant.builtin": "#8f3f71",
